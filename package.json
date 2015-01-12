@@ -1,0 +1,10 @@
+{
+  "name": "parsers",
+  "dependencies": {
+    "cheerio": "^0.18.0",
+    "jquery": "latest",
+		"lodash": "latest",
+    "request": "latest",
+		"underscore.string": "latest"
+  }
+}
